@@ -1,0 +1,13 @@
+.card-container{
+  height: 100%;
+}
+.card-weather{
+    color: #fff;
+    background-color: #000;
+    opacity: 0.7;
+    width: 5rem;
+    height: auto;
+    border-radius: 25px;
+    width: 10rem;
+    padding: 1rem;
+}
